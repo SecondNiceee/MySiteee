@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../new Site"
+		},
+		{
+			"path": "../Новая папка"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Новая папка"
+	}
+}
